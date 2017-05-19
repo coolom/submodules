@@ -1,0 +1,3 @@
+[submodule "Site A/fetch"]
+	path = Site A/fetch
+	url = https://github.com/github/fetch.git
